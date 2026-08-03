@@ -5,30 +5,20 @@
 </h3>
 
 <p align="center">
-Building scalable web applications, blockchain solutions, and digital products.
+Building scalable web applications, blockchain solutions, and modern digital products.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedicated to building secure, scalable, and high-performance software.
+I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** who enjoys building secure, scalable, and high-performance software.
 
 I'm the **Founder of KnytXStudio**, an independent development studio where I transform ideas into production-ready digital products.
 
-## 🏢 About KnytXStudio
+Under **KnytXStudio**, I've developed **Revadoo**, a modern rewards and engagement platform. Alongside the main platform, I've built dedicated cryptocurrency portals including **LTC.Revadoo**, **USDT.Revadoo**, and **TRON.Revadoo**, forming the **Revadoo ecosystem**.
 
-KnytXStudio is where I design, develop, and maintain modern web applications, blockchain solutions, and digital platforms.
-
-### Products built under KnytXStudio
-
-- 🚀 **Revadoo** — Rewards & Engagement Platform
-- 🌐 **LTC.Revadoo**
-- 💵 **USDT.Revadoo**
-- ⚡ **TRON.Revadoo**
-- 🚀 **Evreva** *(Currently Building)*
-
-My current focus is building products that combine modern web technologies, blockchain, and scalable backend architecture while continuously exploring Artificial Intelligence and secure software engineering.
+🚀 I'm currently building **Evreva**, a next-generation platform focused on performance, scalability, and exceptional user experience.
 
 ---
 
@@ -43,7 +33,7 @@ flowchart TB
     %% Studio
     KS["🏢 KnytXStudio"]
 
-    %% Projects
+    %% Main Projects
     REV["🚀 Revadoo"]
     EV["🚀 Evreva"]
 
@@ -53,7 +43,7 @@ flowchart TB
     USDT["💵 USDT.Revadoo"]
     TRON["⚡ TRON.Revadoo"]
 
-    %% Status
+    %% Evreva Status
     BUILD["🚧 Currently Building"]
 
     %% Connections
@@ -70,19 +60,19 @@ flowchart TB
 
     EV --> BUILD
 
-    %% Colors
+    %% Styling
 
-    classDef founder fill:#0F172A,stroke:#3B82F6,color:#ffffff,stroke-width:2px
-    classDef studio fill:#1D4ED8,stroke:#2563EB,color:#ffffff,stroke-width:2px
-    classDef product fill:#7C3AED,stroke:#8B5CF6,color:#ffffff,stroke-width:2px
-    classDef portal fill:#1F2937,stroke:#475569,color:#ffffff
-    classDef status fill:#DC2626,stroke:#B91C1C,color:#ffffff
+    classDef founder fill:#0F172A,color:#ffffff,stroke:#3B82F6,stroke-width:2px;
+    classDef studio fill:#2563EB,color:#ffffff,stroke:#1D4ED8,stroke-width:2px;
+    classDef project fill:#7C3AED,color:#ffffff,stroke:#6D28D9,stroke-width:2px;
+    classDef portal fill:#1F2937,color:#ffffff,stroke:#475569,stroke-width:2px;
+    classDef status fill:#DC2626,color:#ffffff,stroke:#991B1B,stroke-width:2px;
 
-    class CP founder
-    class KS studio
-    class REV,EV product
-    class MAIN,LTC,USDT,TRON portal
-    class BUILD status
+    class CP founder;
+    class KS studio;
+    class REV,EV project;
+    class MAIN,LTC,USDT,TRON portal;
+    class BUILD status;
 ```
 
 ---
@@ -91,9 +81,9 @@ flowchart TB
 
 ## 🌐 Frontend
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite"/>
 
 </p>
 
@@ -101,9 +91,9 @@ flowchart TB
 
 ## ⚙️ Backend
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
 </p>
 
@@ -111,9 +101,9 @@ flowchart TB
 
 ## ⛓️ Blockchain
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://skillicons.dev/icons?i=solidity"/>
 
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
 
@@ -129,9 +119,9 @@ flowchart TB
 
 ## 🛠️ Tools
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render"/>
 
 </p>
 
@@ -141,37 +131,26 @@ flowchart TB
 
 ## 🚀 Evreva *(Currently Building)*
 
-Building a modern platform focused on performance, scalability, and exceptional user experience.
+A next-generation platform engineered for performance, scalability, and exceptional user experience.
 
 ---
 
 ## 🎯 Revadoo
 
-A rewards and engagement platform built with React, Node.js, Express, and MongoDB.
-
----
-
-## 🌐 Revadoo Ecosystem
-
-- 🌍 Revadoo.com
-- ₿ LTC.Revadoo
-- 💵 USDT.Revadoo
-- ⚡ TRON.Revadoo
-
-Dedicated cryptocurrency portals built under the Revadoo ecosystem.
+A modern rewards and engagement platform built using **React**, **Node.js**, **Express**, and **MongoDB**.
 
 ---
 
 ## 🏢 KnytXStudio
 
-An independent development studio creating modern web applications, blockchain solutions, and digital products.
+An independent development studio dedicated to creating modern web applications, blockchain solutions, and innovative digital products.
 
 ---
 
 # 🎯 Current Focus
 
 - 🚀 Building **Evreva**
-- 🌐 Growing the **Revadoo Ecosystem**
+- 🌐 Expanding the **Revadoo Ecosystem**
 - ⛓️ Full-Stack Development
 - ⛓️ Blockchain Development
 - 🤖 Artificial Intelligence
@@ -186,6 +165,6 @@ An independent development studio creating modern web applications, blockchain s
 
 > **"Turning ideas into scalable, secure, and meaningful digital products."**
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
