@@ -16,18 +16,7 @@ I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedi
 
 I'm the **Founder of KnytXStudio**, an independent development studio where I transform ideas into production-ready digital products.
 
-### 🏢 KnytXStudio
-
-Under **KnytXStudio**, I develop modern web platforms and blockchain-powered solutions.
-
-One of the flagship products is **Revadoo**, a rewards and engagement platform that has grown into its own ecosystem.
-
-The **Revadoo Ecosystem** consists of:
-
-- 🌍 **Revadoo.com** — Main Platform
-- ₿ **LTC.Revadoo** — Litecoin Portal
-- 💵 **USDT.Revadoo** — Tether (USDT) Portal
-- ⚡ **TRON.Revadoo** — TRON Portal
+Under **KnytXStudio**, I built **Revadoo**, a modern rewards and engagement platform, along with a growing ecosystem of cryptocurrency portals dedicated to **Litecoin (LTC)**, **USDT**, and **TRON**.
 
 🚀 I'm currently building **Evreva**, a next-generation platform focused on performance, scalability, and exceptional user experience.
 
@@ -38,76 +27,120 @@ The **Revadoo Ecosystem** consists of:
 ```mermaid
 flowchart TB
 
-%% Founder
-CP["👨‍💻 Chander Prakash"]
+    %% Founder
+    CP["👨‍💻 Chander Prakash"]
 
-%% Studio
-KS["🏢 KnytXStudio"]
+    %% Studio
+    KS["🏢 KnytXStudio"]
 
-%% Invisible spacing
-L[" "]
-R[" "]
+    %% Invisible spacing
+    L[" "]
+    R[" "]
 
-%% Projects
-REV["🚀 Revadoo"]
-EV["🚀 Evreva"]
+    %% Projects
+    REV["🚀 Revadoo"]
+    EV["🚀 Evreva"]
 
-%% Revadoo Website
-MAIN["🌍 Revadoo.com"]
+    %% Revadoo Website
+    MAIN["🌍 Revadoo.com"]
 
-%% Subdomains
-LTC["₿ LTC.Revadoo"]
-USDT["💵 USDT.Revadoo"]
-TRON["⚡ TRON.Revadoo"]
+    %% Subdomains
+    LTC["₿ LTC.Revadoo"]
+    USDT["💵 USDT.Revadoo"]
+    TRON["⚡ TRON.Revadoo"]
 
-%% Status
-BUILD["🚧 Currently Building"]
+    %% Status
+    BUILD["🚧 Currently Building"]
 
-%% Connections
-CP --> KS
+    %% Connections
+    CP --> KS
 
-KS --> L
-KS --> R
+    KS --> L
+    KS --> R
 
-L --> REV
-R --> EV
+    L --> REV
+    R --> EV
 
-REV --> MAIN
+    REV --> MAIN
 
-MAIN --> LTC
-MAIN --> USDT
-MAIN --> TRON
+    MAIN --> LTC
+    MAIN --> USDT
+    MAIN --> TRON
 
-EV --> BUILD
+    EV --> BUILD
 
-%% Hide spacing nodes
-style L fill:none,stroke:none
-style R fill:none,stroke:none
+    %% Hide spacing nodes
+    style L fill:none,stroke:none
+    style R fill:none,stroke:none
 
-%% Colors
-classDef founder fill:#111827,color:#ffffff,stroke:#3B82F6,stroke-width:2px;
-classDef studio fill:#2563EB,color:#ffffff,stroke:#1D4ED8,stroke-width:2px;
-classDef project fill:#7C3AED,color:#ffffff,stroke:#6D28D9,stroke-width:2px;
-classDef website fill:#059669,color:#ffffff,stroke:#047857,stroke-width:2px;
-classDef portal fill:#1F2937,color:#ffffff,stroke:#475569,stroke-width:2px;
-classDef status fill:#DC2626,color:#ffffff,stroke:#991B1B,stroke-width:2px;
+    %% Colors
+    classDef founder fill:#111827,color:#ffffff,stroke:#3B82F6,stroke-width:2px;
+    classDef studio fill:#2563EB,color:#ffffff,stroke:#1D4ED8,stroke-width:2px;
+    classDef project fill:#7C3AED,color:#ffffff,stroke:#6D28D9,stroke-width:2px;
+    classDef website fill:#059669,color:#ffffff,stroke:#047857,stroke-width:2px;
+    classDef portal fill:#1F2937,color:#ffffff,stroke:#475569,stroke-width:2px;
+    classDef status fill:#DC2626,color:#ffffff,stroke:#991B1B,stroke-width:2px;
 
-class CP founder;
-class KS studio;
-class REV,EV project;
-class MAIN website;
-class LTC,USDT,TRON portal;
-class BUILD status;
+    class CP founder;
+    class KS studio;
+    class REV,EV project;
+    class MAIN website;
+    class LTC,USDT,TRON portal;
+    class BUILD status;
 ```
+
+---
+
+# 💻 Tech Stack
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
+### ⛓️ Blockchain
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=solidity" />
+
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render" />
+</p>
 
 ---
 
 <div align="center">
 
-## 💡 Philosophy
+# 💡 Philosophy
 
 > **"Turning ideas into scalable, secure, and meaningful digital products."**
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
