@@ -16,7 +16,18 @@ I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedi
 
 I'm the **Founder of KnytXStudio**, an independent development studio where I transform ideas into production-ready digital products.
 
-Under **KnytXStudio**, I've developed **Revadoo**, a modern rewards and engagement platform. Alongside the main platform, I've built dedicated cryptocurrency portals for **Litecoin (LTC)**, **USDT**, and **TRON**, creating the **Revadoo ecosystem**.
+### 🏢 KnytXStudio
+
+Under **KnytXStudio**, I develop modern web platforms and blockchain-powered solutions.
+
+One of the flagship products is **Revadoo**, a rewards and engagement platform that has grown into its own ecosystem.
+
+The **Revadoo Ecosystem** consists of:
+
+- 🌍 **Revadoo.com** — Main Platform
+- ₿ **LTC.Revadoo** — Litecoin Portal
+- 💵 **USDT.Revadoo** — Tether (USDT) Portal
+- ⚡ **TRON.Revadoo** — TRON Portal
 
 🚀 I'm currently building **Evreva**, a next-generation platform focused on performance, scalability, and exceptional user experience.
 
@@ -27,55 +38,73 @@ Under **KnytXStudio**, I've developed **Revadoo**, a modern rewards and engageme
 ```mermaid
 flowchart TB
 
-    CP["👨‍💻 Chander Prakash"]
+%% Founder
+CP["👨‍💻 Chander Prakash"]
 
-    KS["🏢 KnytXStudio"]
+%% Studio
+KS["🏢 KnytXStudio"]
 
-    REV["🚀 Revadoo"]
+%% Invisible spacing
+L[" "]
+R[" "]
 
-    EV["🚀 Evreva"]
+%% Projects
+REV["🚀 Revadoo"]
+EV["🚀 Evreva"]
 
-    MAIN["🌍 Revadoo.com"]
+%% Revadoo Website
+MAIN["🌍 Revadoo.com"]
 
-    LTC["₿ LTC.Revadoo"]
-    USDT["💵 USDT.Revadoo"]
-    TRON["⚡ TRON.Revadoo"]
+%% Subdomains
+LTC["₿ LTC.Revadoo"]
+USDT["💵 USDT.Revadoo"]
+TRON["⚡ TRON.Revadoo"]
 
-    BUILD["🚧 Currently Building"]
+%% Status
+BUILD["🚧 Currently Building"]
 
-    CP --> KS
+%% Connections
+CP --> KS
 
-    KS --> REV
-    KS --> EV
+KS --> L
+KS --> R
 
-    REV --> MAIN
+L --> REV
+R --> EV
 
-    MAIN --> LTC
-    MAIN --> USDT
-    MAIN --> TRON
+REV --> MAIN
 
-    EV --> BUILD
+MAIN --> LTC
+MAIN --> USDT
+MAIN --> TRON
 
-    classDef founder fill:#111827,color:#ffffff,stroke:#3B82F6,stroke-width:2px;
-    classDef studio fill:#2563EB,color:#ffffff,stroke:#1D4ED8,stroke-width:2px;
-    classDef project fill:#7C3AED,color:#ffffff,stroke:#6D28D9,stroke-width:2px;
-    classDef website fill:#059669,color:#ffffff,stroke:#047857,stroke-width:2px;
-    classDef portal fill:#1F2937,color:#ffffff,stroke:#475569,stroke-width:2px;
-    classDef status fill:#DC2626,color:#ffffff,stroke:#991B1B,stroke-width:2px;
+EV --> BUILD
 
-    class CP founder;
-    class KS studio;
-    class REV,EV project;
-    class MAIN website;
-    class LTC,USDT,TRON portal;
-    class BUILD status;
+%% Hide spacing nodes
+style L fill:none,stroke:none
+style R fill:none,stroke:none
+
+%% Colors
+classDef founder fill:#111827,color:#ffffff,stroke:#3B82F6,stroke-width:2px;
+classDef studio fill:#2563EB,color:#ffffff,stroke:#1D4ED8,stroke-width:2px;
+classDef project fill:#7C3AED,color:#ffffff,stroke:#6D28D9,stroke-width:2px;
+classDef website fill:#059669,color:#ffffff,stroke:#047857,stroke-width:2px;
+classDef portal fill:#1F2937,color:#ffffff,stroke:#475569,stroke-width:2px;
+classDef status fill:#DC2626,color:#ffffff,stroke:#991B1B,stroke-width:2px;
+
+class CP founder;
+class KS studio;
+class REV,EV project;
+class MAIN website;
+class LTC,USDT,TRON portal;
+class BUILD status;
 ```
 
 ---
 
 <div align="center">
 
-### 💡 Philosophy
+## 💡 Philosophy
 
 > **"Turning ideas into scalable, secure, and meaningful digital products."**
 
