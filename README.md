@@ -1,62 +1,88 @@
 <h1 align="center">Hi 👋, I'm Chander Prakash</h1>
 
 <h3 align="center">
-🚀 Full-Stack & Blockchain Developer • 🤖 AI Explorer
+🚀 Full-Stack & Blockchain Developer
 </h3>
 
 <p align="center">
-Building modern, scalable, and impactful digital products.
+Building scalable web applications, blockchain solutions, and digital products.
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedicated to building modern, scalable, and high-performance digital products.
+I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedicated to building secure, scalable, and high-performance software.
 
-I founded **KnytXStudio**, my independent development studio, where I design, develop, and deploy full-stack web applications, blockchain solutions, and digital products from concept to production.
+I'm the **Founder of KnytXStudio**, an independent development studio where I transform ideas into production-ready digital products.
 
-One of the flagship projects developed under KnytXStudio is **Revadoo**, a modern rewards and engagement platform. Alongside the main platform, I created a growing **Revadoo Ecosystem** that includes dedicated cryptocurrency portals for **Litecoin (LTC)**, **Tether (USDT)**, and **TRON**, each designed to provide focused content and resources for their respective communities.
+## 🏢 About KnytXStudio
 
-I'm currently building **Evreva**, a next-generation platform focused on performance, scalability, modern architecture, and exceptional user experience.
+KnytXStudio is where I design, develop, and maintain modern web applications, blockchain solutions, and digital platforms.
 
-Outside of development, I'm continuously expanding my expertise in **Artificial Intelligence**, **Blockchain Technologies**, and **Secure Software Engineering** while building products that solve real-world problems.
+### Products built under KnytXStudio
+
+- 🚀 **Revadoo** — Rewards & Engagement Platform
+- 🌐 **LTC.Revadoo**
+- 💵 **USDT.Revadoo**
+- ⚡ **TRON.Revadoo**
+- 🚀 **Evreva** *(Currently Building)*
+
+My current focus is building products that combine modern web technologies, blockchain, and scalable backend architecture while continuously exploring Artificial Intelligence and secure software engineering.
 
 ---
 
 # 🌍 Project Ecosystem
 
 ```mermaid
-flowchart TD
+flowchart TB
 
     %% Founder
     CP["👨‍💻 Chander Prakash"]
 
-    %% Company
-    CP --> KS["🏢 KnytXStudio"]
+    %% Studio
+    KS["🏢 KnytXStudio"]
 
-    %% Products Container
-    KS --> PRODUCTS
+    %% Projects
+    REV["🚀 Revadoo"]
+    EV["🚀 Evreva"]
 
-    subgraph PRODUCTS[" "]
-        direction LR
+    %% Revadoo Products
+    MAIN["🌍 Revadoo.com"]
+    LTC["₿ LTC.Revadoo"]
+    USDT["💵 USDT.Revadoo"]
+    TRON["⚡ TRON.Revadoo"]
 
-        REV["🚀 Revadoo"]
-        EV["🚀 Evreva"]
-    end
+    %% Status
+    BUILD["🚧 Currently Building"]
 
-    %% Revadoo Ecosystem
-    REV --> ECO["🌐 Revadoo Ecosystem"]
+    %% Connections
 
-    ECO --> MAIN["🌍 Revadoo.com"]
-    ECO --> LTC["₿ LTC.Revadoo"]
-    ECO --> USDT["💵 USDT.Revadoo"]
-    ECO --> TRON["⚡ TRON.Revadoo"]
+    CP --> KS
 
-    %% Evreva Status
-    EV --> BUILD["🚧 Currently Building"]
+    KS --> REV
+    KS --> EV
 
-    style PRODUCTS fill:none,stroke:none
+    REV --> MAIN
+    REV --> LTC
+    REV --> USDT
+    REV --> TRON
+
+    EV --> BUILD
+
+    %% Colors
+
+    classDef founder fill:#0F172A,stroke:#3B82F6,color:#ffffff,stroke-width:2px
+    classDef studio fill:#1D4ED8,stroke:#2563EB,color:#ffffff,stroke-width:2px
+    classDef product fill:#7C3AED,stroke:#8B5CF6,color:#ffffff,stroke-width:2px
+    classDef portal fill:#1F2937,stroke:#475569,color:#ffffff
+    classDef status fill:#DC2626,stroke:#B91C1C,color:#ffffff
+
+    class CP founder
+    class KS studio
+    class REV,EV product
+    class MAIN,LTC,USDT,TRON portal
+    class BUILD status
 ```
 
 ---
@@ -65,25 +91,29 @@ flowchart TD
 
 ## 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
+
 </p>
 
 ---
 
 ## ⚙️ Backend
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
 </p>
 
 ---
 
 ## ⛓️ Blockchain
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=solidity" />
 
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
 
@@ -97,53 +127,56 @@ flowchart TD
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render" />
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚀 Evreva *(Currently Building)*
+## 🚀 Evreva *(Currently Building)*
 
-A next-generation platform engineered for scalability, performance, and an exceptional user experience.
-
----
-
-### 🎯 Revadoo
-
-A full-stack rewards and engagement platform built using React, Node.js, Express, and MongoDB.
+Building a modern platform focused on performance, scalability, and exceptional user experience.
 
 ---
 
-### 🌐 Revadoo Ecosystem
+## 🎯 Revadoo
+
+A rewards and engagement platform built with React, Node.js, Express, and MongoDB.
+
+---
+
+## 🌐 Revadoo Ecosystem
 
 - 🌍 Revadoo.com
 - ₿ LTC.Revadoo
 - 💵 USDT.Revadoo
 - ⚡ TRON.Revadoo
 
-Dedicated cryptocurrency portals developed as part of the Revadoo ecosystem.
+Dedicated cryptocurrency portals built under the Revadoo ecosystem.
 
 ---
 
-### 🏢 KnytXStudio
+## 🏢 KnytXStudio
 
-An independent development studio focused on creating modern web applications, blockchain solutions, and innovative digital products.
+An independent development studio creating modern web applications, blockchain solutions, and digital products.
 
 ---
 
 # 🎯 Current Focus
 
 - 🚀 Building **Evreva**
-- 🌐 Expanding the **Revadoo Ecosystem**
-- ⛓️ Full-Stack & Blockchain Development
+- 🌐 Growing the **Revadoo Ecosystem**
+- ⛓️ Full-Stack Development
+- ⛓️ Blockchain Development
 - 🤖 Artificial Intelligence
 - 🔐 Secure Software Engineering
-- 📚 Continuous Learning & Open Source
+- 📚 Continuous Learning
 
 ---
 
@@ -151,7 +184,7 @@ An independent development studio focused on creating modern web applications, b
 
 ## 💡 Philosophy
 
-> **"Building technology that is scalable, secure, and creates meaningful impact."**
+> **"Turning ideas into scalable, secure, and meaningful digital products."**
 
 ⭐ Thanks for visiting my profile!
 
