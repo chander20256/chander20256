@@ -12,32 +12,51 @@ Building modern, scalable, and impactful digital products.
 
 # 🚀 About Me
 
-I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** focused on building scalable, secure, and high-performance web applications.
+I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** dedicated to building modern, scalable, and high-performance digital products.
 
-I'm the **Founder of KnytXStudio**, a development studio where I transform ideas into production-ready software using modern web technologies and blockchain solutions.
+I founded **KnytXStudio**, my independent development studio, where I design, develop, and deploy full-stack web applications, blockchain solutions, and digital products from concept to production.
 
-Under **KnytXStudio**, I built the **Revadoo Ecosystem**, which includes the main platform along with dedicated cryptocurrency portals for **Litecoin**, **USDT**, and **TRON**.
+One of the flagship projects developed under KnytXStudio is **Revadoo**, a modern rewards and engagement platform. Alongside the main platform, I created a growing **Revadoo Ecosystem** that includes dedicated cryptocurrency portals for **Litecoin (LTC)**, **Tether (USDT)**, and **TRON**, each designed to provide focused content and resources for their respective communities.
 
-I'm currently building **Evreva**, my next-generation platform designed with a strong focus on performance, scalability, and user experience.
+I'm currently building **Evreva**, a next-generation platform focused on performance, scalability, modern architecture, and exceptional user experience.
+
+Outside of development, I'm continuously expanding my expertise in **Artificial Intelligence**, **Blockchain Technologies**, and **Secure Software Engineering** while building products that solve real-world problems.
 
 ---
 
 # 🌍 Project Ecosystem
 
 ```mermaid
-flowchart LR
+flowchart TD
 
+    %% Founder
     CP["👨‍💻 Chander Prakash"]
-        --> KS["🏢 KnytXStudio"]
 
-    KS --> EV["🚀 Evreva<br/>(Currently Building)"]
+    %% Company
+    CP --> KS["🏢 KnytXStudio"]
 
-    KS --> RV["🎯 Revadoo"]
+    %% Products Container
+    KS --> PRODUCTS
 
-    RV --> MAIN["🌐 Revadoo.com"]
-    RV --> LTC["₿ LTC.Revadoo"]
-    RV --> USDT["💵 USDT.Revadoo"]
-    RV --> TRON["⚡ TRON.Revadoo"]
+    subgraph PRODUCTS[" "]
+        direction LR
+
+        REV["🚀 Revadoo"]
+        EV["🚀 Evreva"]
+    end
+
+    %% Revadoo Ecosystem
+    REV --> ECO["🌐 Revadoo Ecosystem"]
+
+    ECO --> MAIN["🌍 Revadoo.com"]
+    ECO --> LTC["₿ LTC.Revadoo"]
+    ECO --> USDT["💵 USDT.Revadoo"]
+    ECO --> TRON["⚡ TRON.Revadoo"]
+
+    %% Evreva Status
+    EV --> BUILD["🚧 Currently Building"]
+
+    style PRODUCTS fill:none,stroke:none
 ```
 
 ---
@@ -47,7 +66,7 @@ flowchart LR
 ## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite" />
 </p>
 
 ---
@@ -78,7 +97,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render" />
@@ -88,32 +107,32 @@ flowchart LR
 
 # 🚀 Featured Projects
 
-## 🚀 Evreva *(Currently Building)*
+### 🚀 Evreva *(Currently Building)*
 
-A next-generation platform engineered for performance, scalability, and an exceptional user experience.
-
----
-
-## 🎯 Revadoo
-
-A modern rewards and engagement platform built using React, Node.js, Express, and MongoDB.
+A next-generation platform engineered for scalability, performance, and an exceptional user experience.
 
 ---
 
-## 🌐 Revadoo Ecosystem
+### 🎯 Revadoo
 
-The Revadoo ecosystem extends beyond the core platform with dedicated cryptocurrency portals:
+A full-stack rewards and engagement platform built using React, Node.js, Express, and MongoDB.
 
-- 🌐 Revadoo.com
+---
+
+### 🌐 Revadoo Ecosystem
+
+- 🌍 Revadoo.com
 - ₿ LTC.Revadoo
 - 💵 USDT.Revadoo
 - ⚡ TRON.Revadoo
 
+Dedicated cryptocurrency portals developed as part of the Revadoo ecosystem.
+
 ---
 
-## 🏢 KnytXStudio
+### 🏢 KnytXStudio
 
-A development studio focused on building modern web applications, blockchain solutions, and digital products from idea to deployment.
+An independent development studio focused on creating modern web applications, blockchain solutions, and innovative digital products.
 
 ---
 
@@ -123,8 +142,8 @@ A development studio focused on building modern web applications, blockchain sol
 - 🌐 Expanding the **Revadoo Ecosystem**
 - ⛓️ Full-Stack & Blockchain Development
 - 🤖 Artificial Intelligence
-- 🔐 Secure Software Development
-- 📚 Learning, Building & Open Source
+- 🔐 Secure Software Engineering
+- 📚 Continuous Learning & Open Source
 
 ---
 
@@ -132,7 +151,7 @@ A development studio focused on building modern web applications, blockchain sol
 
 ## 💡 Philosophy
 
-> **"Build solutions that are scalable, secure, and create real-world impact."**
+> **"Building technology that is scalable, secure, and creates meaningful impact."**
 
 ⭐ Thanks for visiting my profile!
 
