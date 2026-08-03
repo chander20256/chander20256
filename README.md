@@ -1,47 +1,41 @@
 <h1 align="center">Hi 👋, I'm Chander Prakash</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer • 🔐 Cybersecurity Enthusiast • 🤖 AI Explorer
+🚀 Full-Stack & Blockchain Developer • 🤖 AI Explorer
 </h3>
 
 <p align="center">
-Building secure, scalable and modern web applications.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=chander20256&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/chander20256?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/chander20256?affiliations=OWNER&style=social"/>
+Building modern, scalable, and secure digital products.
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm **Chander Prakash**, a passionate **Full-Stack Developer** focused on building secure, scalable, and high-performance web applications.
+I'm **Chander Prakash**, a passionate **Full-Stack & Blockchain Developer** who enjoys building modern, scalable, and high-performance applications.
 
-I am the **Founder of KnytXStudio**, where I design, develop, and deploy modern digital products from concept to production.
+I'm the **Founder of KnytXStudio**, where I design and develop full-stack web applications, blockchain solutions, and digital products from concept to deployment.
 
-### 💼 Under KnytXStudio
+### 🚀 Currently Building
 
-### 🎯 Revadoo Ecosystem
+**Evreva** — A next-generation platform focused on performance, scalability, and exceptional user experience.
 
-- 🌐 **Revadoo.com** – Main rewards & engagement platform
-- ₿ **LTC.Revadoo** – Litecoin knowledge portal
-- 💵 **USDT.Revadoo** – USDT information portal
-- ⚡ **TRON.Revadoo** – TRON blockchain information portal
+### 🏢 KnytXStudio Portfolio
 
-### 🚀 Current Project
+Under **KnytXStudio**, I've built:
 
-**Evreva**
+- 🚀 **Revadoo** – A modern rewards & engagement platform.
+- 🌐 **Revadoo Ecosystem**
+  - ₿ **ltc.revadoo.com**
+  - 💵 **usdt.revadoo.com**
+  - ⚡ **tron.revadoo.com**
 
-Currently building a next-generation platform focused on:
+Alongside my projects, I'm continuously expanding my knowledge in:
 
-- High Performance
-- Modern UI/UX
-- Scalability
-- Security
-- Real-world usability
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- ☁️ Cloud Technologies
+- ⛓️ Blockchain & Web3
 
 ---
 
@@ -54,7 +48,7 @@ flowchart TD
 
     DEV --> KS["🏢 KnytXStudio"]
 
-    KS --> REV["🎯 Revadoo Ecosystem"]
+    KS --> REV["🚀 Revadoo"]
 
     REV --> MAIN["🌐 Revadoo.com"]
     REV --> LTC["₿ LTC.Revadoo"]
@@ -66,124 +60,100 @@ flowchart TD
 
     DEV --> STACK["💻 Tech Stack"]
 
-    STACK --> REACT["⚛️ React"]
-    STACK --> NODE["🟢 Node.js"]
-    STACK --> EXPRESS["🚂 Express.js"]
-    STACK --> MONGO["🍃 MongoDB"]
+    STACK --> REACT["React"]
+    STACK --> NODE["Node.js"]
+    STACK --> EXPRESS["Express.js"]
+    STACK --> MONGO["MongoDB"]
+    STACK --> SOL["Solidity"]
+    STACK --> ETH["Ethers.js"]
 
-    DEV --> PASSION["❤️ Interests"]
+    DEV --> PASSION["📚 Exploring"]
 
-    PASSION --> CYBER["🔐 Cybersecurity"]
-    PASSION --> AI["🤖 Artificial Intelligence"]
-    PASSION --> WEB3["⛓️ Blockchain"]
+    PASSION --> AI["Artificial Intelligence"]
+    PASSION --> CYBER["Cybersecurity"]
+    PASSION --> WEB3["Blockchain & Web3"]
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-## Frontend
+## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
 
-## Backend
+---
+
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-## Tools
+---
+
+## ⛓️ Blockchain
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **Evreva** | Currently building a modern, scalable platform focused on performance and user experience. |
-| 🎯 **Revadoo** | A full-stack rewards and engagement platform built with React, Node.js, Express, and MongoDB. |
-| 💰 **LTC.Revadoo** | Cryptocurrency information portal dedicated to Litecoin. |
-| 💵 **USDT.Revadoo** | Cryptocurrency information portal dedicated to Tether (USDT). |
-| ⚡ **TRON.Revadoo** | Cryptocurrency information portal dedicated to the TRON ecosystem. |
-| 💼 **KnytXStudio** | Development studio for creating modern web applications and digital products. |
+## 🚀 Evreva *(Currently Building)*
+
+Building a modern, scalable platform designed for performance, security, and user experience.
 
 ---
 
-# 📊 GitHub Analytics
+## 🎯 Revadoo
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chander20256&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chander20256&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+A full-stack rewards & engagement platform built with React, Node.js, Express, MongoDB, and modern web technologies.
 
 ---
 
-# 🔥 Contribution Streak
+## 🌐 Revadoo Ecosystem
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=chander20256&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🌐 Revadoo.com
+- ₿ LTC.Revadoo
+- 💵 USDT.Revadoo
+- ⚡ TRON.Revadoo
 
 ---
 
-# 📈 Contribution Graph
+## 🏢 KnytXStudio
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chander20256&theme=tokyo-night"/>
-
-</p>
+A development studio focused on building scalable web platforms, blockchain applications, and digital products.
 
 ---
 
 # 🎯 Current Focus
 
 - 🚀 Building **Evreva**
-- 🌐 Expanding the **Revadoo Ecosystem**
-- 🔐 Learning Cybersecurity
-- 🤖 Exploring Artificial Intelligence
-- ⛓️ Building Blockchain-based Applications
-- 📚 Continuously improving as a Full-Stack Developer
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/chander-prakash-928537331">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.revadoo.com">
-<img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-<a href="mailto:chanderprakash20256@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-*"Great software is not just written—it is designed, secured, optimized, and continuously improved."*
-
-⭐ If you like my work, consider following my journey and exploring my projects!
-
-</div>
+- 🌐 Growing the **Revadoo Ecosystem**
+- ⛓️ Blockchain Development
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 📚 Continuous Learning & Open Source
